@@ -39,7 +39,7 @@ class Bot{
 		
 		$messages = $this->api->getConfig()["messages"];
 		
-		$answer = "Чаго?";
+		$answer = "Че ты тут забыл?";
 		
 		foreach($messages as $msg => $resp){
 			
