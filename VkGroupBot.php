@@ -2,7 +2,7 @@
 
 /**
  * @author ArsenOOO7
- * Simple LongPoll Bot for Vk
+ *
 */
 
 require_once(__DIR__."/Bot.php");
