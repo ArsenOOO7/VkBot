@@ -79,4 +79,4 @@ if(!file_exists(__DIR__."/Config.json")){
 }
 
 $config = json_decode(file_get_contents(__DIR__."/Config.json"), true);
-$vkBot = new VkGroupBot($config);
+(new VkGroupBot($config));
