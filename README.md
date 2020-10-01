@@ -1,2 +1,2 @@
 # VkBot
-Простой бот группы для обработки сообщений. Используется LongPoll API.
+Simple chat-bot. It was made with using VK LongPoll API.
